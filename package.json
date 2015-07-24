@@ -4,7 +4,7 @@
   "description": "advanced pipe for darlingjs engine",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/eslint ./index.js ./test/ && ./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/darlingjs/darlingjs-pipe/issues"
   },
-  "homepage": "https://github.com/darlingjs/darlingjs-pipe#readme"
+  "homepage": "https://github.com/darlingjs/darlingjs-pipe#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "eslint": "^0.24.1",
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4",
+    "sinon-chai": "^2.8.0"
+  }
 }
