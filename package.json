@@ -1,0 +1,24 @@
+{
+  "name": "darlingjs-pipe",
+  "version": "0.0.0",
+  "description": "advanced pipe for darlingjs engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darlingjs/darlingjs-pipe.git"
+  },
+  "keywords": [
+    "pipe",
+    "darlingjs",
+    "game-engine"
+  ],
+  "author": "Eugene Krevenets <ievgenii.krevenets@gmail.com> (http://hyzhak.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darlingjs/darlingjs-pipe/issues"
+  },
+  "homepage": "https://github.com/darlingjs/darlingjs-pipe#readme"
+}
