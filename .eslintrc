@@ -1,0 +1,23 @@
+{
+  "plugins": [
+  ],
+  "ecmaFeatures": {
+  },
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jasmine": true,
+    "mocha": true,
+    "node": true
+  },
+  "globals": {
+  },
+  "rules": {
+    "no-loop-func": 0,
+    "no-underscore-dangle": 0,
+    "no-unused-expressions": 0,
+    "strict": 0,
+    "indent": [1, 2],
+    "quotes": [2, "single"]
+  }
+}

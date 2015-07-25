@@ -23,6 +23,7 @@
   "homepage": "https://github.com/darlingjs/darlingjs-pipe#readme",
   "devDependencies": {
     "chai": "^3.2.0",
+    "darlingjs": "darlingjs/darlingjs#1.0",
     "eslint": "^0.24.1",
     "mocha": "^2.2.5",
     "sinon": "^1.15.4",
